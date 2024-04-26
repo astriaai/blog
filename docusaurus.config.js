@@ -97,6 +97,16 @@ const config = {
             label: 'Home',
             // position: 'right',
           },
+          {
+            href: 'https://blog.astria.ai/',
+            label: 'Blog',
+            // position: 'right',
+          },
+          {
+            href: 'https://www.astria.ai/articles',
+            label: 'Articles',
+            // position: 'right',
+          },
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
