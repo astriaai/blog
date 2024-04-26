@@ -98,8 +98,8 @@ const config = {
             // position: 'right',
           },
           {
-            href: 'https://blog.astria.ai/',
-            label: 'Blog',
+            href: 'https://docs.astria.ai/',
+            label: 'Docs',
             // position: 'right',
           },
           {
