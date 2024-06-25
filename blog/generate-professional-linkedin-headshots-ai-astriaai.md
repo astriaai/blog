@@ -58,7 +58,7 @@ To ensure that your AI-generated LinkedIn headshot looks its best, consider the 
 
 ## Real-World Examples and Testimonials
 
-To see the impressive results that can be achieved with Astria.ai's AI-generated headshots, take a look at the [Astria.ai Showcase](https://www.astria.ai/showcase). Here, you'll find a collection of real-world examples showcasing the platform's capabilities and the high-quality headshots it can produce.
+To see the impressive results that can be achieved with Astria.ai's AI-generated headshots, take a look at the [Astria.ai Showcase](https://www.astria.ai/examples). Here, you'll find a collection of real-world examples showcasing the platform's capabilities and the high-quality headshots it can produce.
 
 For example, Jonathan Lee, a software engineer, used Astria.ai to generate a professional headshot for his LinkedIn profile. "I was impressed by how easy and quick it was to create a high-quality headshot using Astria.ai," he said. "The AI captured my likeness and generated a photo that looked like it was taken by a professional photographer."
 
@@ -74,7 +74,7 @@ However, Astria.ai stands out from the competition with its unique features and 
 
 1. **AI Photoshoot**: Astria.ai's AI Photoshoot feature simplifies the process of creating professional headshots by generating a series of images based on your training images and class name, allowing you to select your preferred headshot with ease.
 
-2. **Gallery and Showcase**: Astria.ai's [Gallery](https://www.astria.ai/gallery) and [Showcase](https://www.astria.ai/showcase) provide users with a wealth of real-world examples and inspiration, demonstrating the platform's capabilities and the high-quality results it can achieve.
+2. **Gallery and Showcase**: Astria.ai's [Gallery](https://www.astria.ai/gallery) and [Showcase](https://www.astria.ai/examples) provide users with a wealth of real-world examples and inspiration, demonstrating the platform's capabilities and the high-quality results it can achieve.
 
 3. **Comprehensive Documentation**: Astria.ai offers detailed [documentation](https://docs.astria.ai/) and [guides](https://docs.astria.ai/docs/use-cases/ai-photoshoot/) to help users navigate the platform and make the most of its features, ensuring a smooth and successful experience.
 
