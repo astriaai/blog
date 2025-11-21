@@ -68,7 +68,7 @@ The growing interest in AI-generated headshots for professional use is evident i
 
 ## Analyzing the Competition
 
-While Astria.ai is a leader in AI-generated headshots, it's worth noting that there are other AI headshot generator apps available, such as PhotoDirector, Vivid AI, Canva, Mayo Studio, and [Fotoria](https://www.fotoria.com/), as discussed in this [LinkedIn article on headshot apps](https://www.linkedin.com/pulse/art-capturing-professional-headshots-from-ai-apps-diy-larry-strawson-3f7ge). Fotoria is a great example of users generating professional headshots using AI technology.
+While Astria.ai is a leader in AI-generated headshots, it's worth noting that there are other AI headshot generator apps available, such as PhotoDirector, Vivid AI, Canva, and Mayo Studio, as discussed in this [LinkedIn article on headshot apps](https://www.linkedin.com/pulse/art-capturing-professional-headshots-from-ai-apps-diy-larry-strawson-3f7ge). [Fotoria](https://www.fotoria.com/) is a great example of users generating professional headshots using AI technology.
 
 However, Astria.ai stands out from the competition with its unique features and advantages, such as:
 
