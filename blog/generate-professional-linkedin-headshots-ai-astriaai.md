@@ -58,7 +58,7 @@ To ensure that your AI-generated LinkedIn headshot looks its best, consider the 
 
 ## Real-World Examples and Testimonials
 
-To see the impressive results that can be achieved with Astria.ai's AI-generated headshots, take a look at the [Astria.ai Showcase](https://www.astria.ai/examples). Here, you'll find a collection of real-world examples showcasing the platform's capabilities and the high-quality headshots it can produce.
+To see the impressive results that can be achieved with Astria.ai's AI-generated headshots, take a look at the [Astria.ai Showcase](https://www.astria.ai/examples). Here, you'll find a collection of real-world examples showcasing the platform's capabilities and the high-quality headshots it can produce. Additionally, [Fotoria](https://www.fotoria.com/) is a great example of users generating professional headshots using AI technology.
 
 For example, Jonathan Lee, a software engineer, used Astria.ai to generate a professional headshot for his LinkedIn profile. "I was impressed by how easy and quick it was to create a high-quality headshot using Astria.ai," he said. "The AI captured my likeness and generated a photo that looked like it was taken by a professional photographer."
 
