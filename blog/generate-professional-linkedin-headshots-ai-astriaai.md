@@ -58,7 +58,7 @@ To ensure that your AI-generated LinkedIn headshot looks its best, consider the 
 
 ## Real-World Examples and Testimonials
 
-To see the impressive results that can be achieved with Astria.ai's AI-generated headshots, take a look at the [Astria.ai Showcase](https://www.astria.ai/examples). Here, you'll find a collection of real-world examples showcasing the platform's capabilities and the high-quality headshots it can produce. Additionally, [Fotoria](https://www.fotoria.com/) is a great example of users generating professional headshots using AI technology.
+To see the impressive results that can be achieved with Astria.ai's AI-generated headshots, take a look at the [Astria.ai Showcase](https://www.astria.ai/examples). Here, you'll find a collection of real-world examples showcasing the platform's capabilities and the high-quality headshots it can produce.
 
 For example, Jonathan Lee, a software engineer, used Astria.ai to generate a professional headshot for his LinkedIn profile. "I was impressed by how easy and quick it was to create a high-quality headshot using Astria.ai," he said. "The AI captured my likeness and generated a photo that looked like it was taken by a professional photographer."
 
@@ -68,7 +68,7 @@ The growing interest in AI-generated headshots for professional use is evident i
 
 ## Analyzing the Competition
 
-While Astria.ai is a leader in AI-generated headshots, it's worth noting that there are other AI headshot generator apps available, such as PhotoDirector, Vivid AI, Canva, and Mayo Studio, as discussed in this [LinkedIn article on headshot apps](https://www.linkedin.com/pulse/art-capturing-professional-headshots-from-ai-apps-diy-larry-strawson-3f7ge).
+While Astria.ai is a leader in AI-generated headshots, it's worth noting that there are other AI headshot generator apps available, such as PhotoDirector, Vivid AI, Canva, Mayo Studio, and [Fotoria](https://www.fotoria.com/), as discussed in this [LinkedIn article on headshot apps](https://www.linkedin.com/pulse/art-capturing-professional-headshots-from-ai-apps-diy-larry-strawson-3f7ge). Fotoria is a great example of users generating professional headshots using AI technology.
 
 However, Astria.ai stands out from the competition with its unique features and advantages, such as:
 
